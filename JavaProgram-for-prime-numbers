@@ -4,6 +4,8 @@ public class JavaApplication294 {
       
        int number = 0;
        
+       System.out.println("The prime numbers till 10,000 are");
+       
        for (int i=1; i<=10000; i++)         
        { 		  	  
           int counter= 0; 
