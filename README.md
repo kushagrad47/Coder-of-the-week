@@ -1,1 +1,1 @@
-# Coder-of-the-week
+# Code for coder-of-the-week
